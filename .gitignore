@@ -17,3 +17,7 @@ Thumbs.db
 
 # Env Files #
 .env
+
+# Data Files #
+*/*.csv.zip*
+
